@@ -6,7 +6,8 @@ url: "https://kekalmaju.github.io" # the base hostname & protocol for your site,
 date_format: "%b %-d, %Y"
 email: kekalmaju.my@gmail.com
 google_analytics: 
-address: No. 355, Tingkat 1, Tabuan Laru Commercial Centre, Jalan Setia Raja, 93350 Kuching. Sarawak. Malaysia.
+address: B3-1-12, Blok B3, Aras 1, Canaan Square Business Hub, Jalan Stutong Baru, 93250 Kuching. Sarawak. Malaysia.
+address_link: https://goo.gl/maps/nhNTUTs2r6KM3pNz7
 
 # Defaults
 defaults:
